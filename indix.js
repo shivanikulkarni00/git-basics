@@ -8,3 +8,7 @@ if (age >= 18) {
 else {
     return false;
 }
+function feacture() {
+    console.log("this is new feacture");
+    
+ }
